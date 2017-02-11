@@ -42,3 +42,7 @@ page_gen:
     template: 'profile'
     name: 'full_name'
     dir: 'pets'
+  - data: 'abuse'
+    template: 'facilities'
+    name: 'FACID'
+    dir: 'care-homes'
